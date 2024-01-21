@@ -1,8 +1,8 @@
-streamlit==1.14.0
-nltk==3.6.2
-gtts==2.2.3
-moviepy==1.0.3
-googletrans==4.0.0-rc1
-PyPDF2==1.26.0
-avatarify==0.2.0
-requests==2.26.0
+streamlit
+nltk
+gtts
+moviepy
+googletrans
+PyPDF2
+avatarify
+requests
