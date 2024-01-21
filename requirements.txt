@@ -4,5 +4,4 @@ gtts
 moviepy
 googletrans
 PyPDF2
-avatarify
 requests
